@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213231300591",
+    "project_id": "abcancer---tcc",
+    "storage_bucket": "abcancer---tcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213231300591:android:2c9448a033a6105699101a",
+        "android_client_info": {
+          "package_name": "com.example.tcc_abcancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213231300591-s2r4gro9m2t035sdro6boh9rlk7fha9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qWStoVqcXQ4JMBnacHIaUpRpjQg5RN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213231300591-s2r4gro9m2t035sdro6boh9rlk7fha9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

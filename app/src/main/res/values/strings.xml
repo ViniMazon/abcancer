@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">ABCâncer</string>
+    <string name="BemVindo">Bem vindo</string>
+    <string name="BemVindo2">ao ABCâncer!</string>
+    <string name="Slogan">Seja a esperança de muitos.</string>
+    <string name="btnCad">Cadastro</string>
+    <string name="btnLogin">Login</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="tab_text_1">Usuário</string>
+    <string name="tab_text_2">ONG</string>
+    <string name="txtNome">Nome</string>
+    <string name="nome">Nome:</string>
+    <string name="cadd">Cadastrar</string>
+    <string name="HintNome">Digite seu nome</string>
+    <string name="Cpf">CPF:</string>
+    <string name="titleCad">CADASTRO</string>
+    <string name="hintCPF">Digite seu CPF</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="hintEmail">Digite seu email</string>
+    <string name="txtSenha">Senha:</string>
+    <string name="txtE">E-mail:</string>
+    <string name="FOTOS">Fotos:</string>
+    <string name="hintSenha">Digite sua senha</string>
+    <string name="NomeOng">Nome da ONG:</string>
+    <string name="hintONG">Digite o nome da ONG</string>
+    <string name="txtADD">Adicione uma foto da logo</string>
+    <string name="btnAdd">Adiciona imagem</string>
+    <string name="btnADD">Adicionar imagem</string>
+    <string name="txtLogo">Adicionar logo:</string>
+    <string name="emailOng">Digite o e-mail da ONG</string>
+    <string name="txtCnpjOng">CNPJ:</string>
+    <string name="cnpj">Digite o CNPJ da ONG</string>
+    <string name="txtTipo">Tipo de câncer:</string>
+    <string name="Tipoo">Ex: Câncer de mama</string>
+    <string name="txtConfSenha">Confirmar senha:</string>
+    <string name="edtCSenha">Confirme sua senha</string>
+    <string name="txtUF">UF:</string>
+    <string name="txtCidade">Cidade:</string>
+    <string name="txtTel">Digite o número de telefone da ONG</string>
+    <string name="TelONG">Telefone:</string>
+    <string name="celOng">Celular:</string>
+    <string name="txtCel">Digite o número de celular da ONG</string>
+    <string name="btnCadONG">SOLICITAR CADASTRO</string>
+    <string name="Esqueci">Esqueceu sua senha?</string>
+    <string name="txtCadTer">Ainda não tem cadastro?</string>
+    <string name="Cadastrase">Cadastre-se</string>
+    <string name="SenhaEsqueci">Esqueci minha senha</string>
+    <string name="txt1">Digite seu e-mail e enviaremos um PIN para</string>
+    <string name="txt2">para você alterar sua senha.</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="txtCodigo">Insira o código enviado para</string>
+    <string name="InserirEmail">teste@gmail</string>
+    <string name="vazio"></string>
+    <string name="Cont">Continuar</string>
+    <string name="defina">Defina sua nova senha</string>
+    <string name="novasenha">Digite sua nova senha</string>
+    <string name="confsenha">Confirme sua nova senha</string>
+    <string name="alterar">Alterar senha</string>
+    <string name="parabens">Parabéns!</string>
+    <string name="txtS1">Seu cadastro foi</string>
+    <string name="txtS2">realizado com</string>
+    <string name="txtS3">sucesso.</string>
+    <string name="txtS4">Agora está na hora de criar sua</string>
+    <string name="txtS5">postagem:</string>
+    <string name="start">Começar</string>
+    <string name="foto">Fotos</string>
+    <string name="addfoto">Adicione até 4 fotos</string>
+    <string name="sobre">Sobre a ONG:</string>
+    <string name="info">Informações:</string>
+    <string name="contato">Contato:</string>
+    <string name="local">Localização:</string>
+    <string name="horario">Horário de atendimento:</string>
+    <string name="ndoacao">Necessidades de doação:</string>
+    <string name="cadrede">Cadastrar redes sociais:</string>
+    <string name="conf">Confirmar</string>
+    <string name="nomeperfil">NomeEx</string>
+    <string name="uso">Termos de Uso</string>
+    <string name="sobrenos">Sobre Nós</string>
+    <string name="excluir">Excluir Conta</string>
+    <string name="sair">Sair</string>
+    <string name="CPF">000.000.000-00</string>
+    <string name="Senha">senhaexemplo</string>
+    <string name="Email">exemplo@gmail.com</string>
+    <string name="texto1">O ABCâncer é um app com intuito de </string>
+    <string name="texto2">dar visibilidade as ONGS, fornecendo </string>
+    <string name="texto3">um contato rápido e seguro entre as </string>
+    <string name="texto4">instituições e os doadores.</string>
+    <string name="ourl">Nossa localização:</string>
+    <string name="social">Nossas redes sociais:</string>
+    <string name="neww">Novas ONGs</string>
+    <string name="edtpost">Editar Postagem</string>
+    <string name="edtfotoong">Alterar a foto do perfil</string>
+    <string name="prpr">ONGs próximas a você</string>
+    <string name="PostContato">ContatoExemplo</string>
+    <string name="PostLocal">Localizaçãoexemplo</string>
+    <string name="PostAten">HorarioExemplo</string>
+    <string name="txtRede">Redes sociais:</string>
+    <string name="fotosdaonga">Fotos da ONG:</string>
+    <string name="Editar">Editar Postagem</string>
+    <string name="AdcionarFoto">Adicionar fotos</string>
+    <string name="Excluir">Excluir fotos</string>
+
+    //////////////////////////////////////
+
+    <string name="nome_ongExe">NomeExONG</string>
+    <string name="cnpj_ongExe"> XX.XXX.XXX/0001-XX.</string>
+    <string name="sobre_ongExe">SobreOng</string>
+    <string name="email_ongEXe"> exemploong@gmail.com</string>
+    <string name="tipodecancer_ongExe"> Câncer de exemplo</string>
+    <string name="contato_ongExe"> ContatoExemplo</string>
+    <string name="local_ongExe"> LocalizaçãoExemplo</string>
+    <string name="horario_ongExe"> HorárioExemplo</string>
+    <string name="telefone_ongExe">00 0000-0000</string>
+    <string name="celular_ongExe">00 00000-0000</string>
+    <string name="necessidade_ongExe"> Necessidades da Ong</string>
+    <string name="senha_ongExe">senhaexemplo</string>
+
+    <string name="nome_usuario">NomeExemplo</string>
+    <string name="cpf_usuario">000.000.000-00</string>
+    <string name="email_usuario">exemplouser.gmail.com</string>
+    <string name="senha_usuario">senhauser</string>
+
+    //////////////////////////////////////////////////
+
+    <string-array name="uf">
+        <item>""</item>
+        <item>SP</item>
+    </string-array>
+
+    <string-array name="cidade">
+        <item>""</item>
+        <item>Santo André</item>
+        <item>São Bernardo</item>
+        <item>São Caetano do Sul</item>
+
+    </string-array>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_buscar">Buscar</string>
+    <string name="title_mais">Mais</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_activity_ong">OngActivity</string>
+    <string name="title_activity_teste_ong">TesteOngActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
