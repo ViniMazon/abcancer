@@ -16,7 +16,7 @@
 ## Sobre o projeto
 
 <div align="center">
-<img src="assets/tela.png" alt="Logo">
+<img src="assets/tela.jpg" alt="Logo">
 </div>
 <br>
 Necessidade:
