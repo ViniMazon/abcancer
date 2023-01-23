@@ -25,7 +25,8 @@ Devido ao período instável politicamente e economicamente que o Brasil vem viv
 <br>
 Objetivo:
 Ajudar pessoas acometidas com os mais diversos tipos de câncer, de forma que sejam cadastrados voluntários aptos a ajudarem as instituições do modo que puderem, através de qualquer tipo de doações que as próprias instituições definirão se precisam.
-
+<br>
+<br>
 Benefícios:
 Aumentar a visibilidade das ONGs e o número de doações para que elas possam se manter financeiramente e apoiarem ainda mais as vítimas dos mais variados tipos de cânceres.
 
