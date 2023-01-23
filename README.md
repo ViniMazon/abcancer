@@ -21,7 +21,7 @@
 <br>
 Necessidade:
 Devido ao período instável politicamente e economicamente que o Brasil vem vivendo, o que faz com que a população precise a cada dia mais da ajuda de terceiros. Segundo pesquisas, no início de 2020 apenas 50% dos entrevistados afirmaram ajudar ONGs, sendo que apenas 18% faziam doações em dinheiro, 38% em bens materiais, e 32% doaram outros tipos de serviços. Com o surgimento da pandemia da Covid-19, essas contribuições diminuíram exponencialmente. 
-
+<br>
 Objetivo:
 Ajudar pessoas acometidas com os mais diversos tipos de câncer, de forma que sejam cadastrados voluntários aptos a ajudarem as instituições do modo que puderem, através de qualquer tipo de doações que as próprias instituições definirão se precisam.
 
