@@ -36,8 +36,8 @@ Aqui estão citadas algumas das principais tecnologias que estão sendo utilizad
 
 * ![Java][Java.com]
 * ![AndroidStudio][AndroidStudio.com]
-* [![Android][Android.com]
-* [![Firebase][Firebase.com]
+* ![Android][Android.com]
+* ![Firebase][Firebase.com]
 
 <br>
 
